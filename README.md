@@ -10,3 +10,5 @@ To this:
 
 ![image](https://github.com/user-attachments/assets/a1ea6eae-54c4-4266-8f21-1132eb9ee255)
 
+You can check it straightly from your browser clicking the ipynb file.
+
